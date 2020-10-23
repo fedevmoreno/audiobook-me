@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400px" src="/img/logo.png">
+  <img width="500px" src="/img/logo.png">
 </p>
 
 <p align="center">
@@ -22,4 +22,4 @@ Replace your PDF file (audiobook or any document you want to listen to) and set 
   And now?
 </h1>
 
-Go to your bed, run this script and enjoy.
+Go to your bed, run this script and listen to your PDF files.
