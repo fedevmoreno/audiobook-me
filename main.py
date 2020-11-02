@@ -8,7 +8,7 @@ book_reader.setProperty('voice', 'com.apple.speech.synthesis.voice.samantha')
 
 pdf_reader = PyPDF2.PdfFileReader(book)
 
-first_page_to_read = 3 # Here you have to put the first page number you want to listen to (number of array'index, if it is page number 4, so you have to put 3).
+first_page_to_read = 3 # Here you have to put the first page number you want to listen to (index number of array, if it is page number 4, so you have to put 3).
 
 pages = pdf_reader.numPages
 
@@ -21,7 +21,7 @@ for num in range(first_page_to_read, pages):
 '''
 You can change the book reader voice.
 
-Here are some Apple voice ids (if you use Windows or Linux, you have to find the right ids):
+Here are some macOS voice ids (if you use Windows or Linux, you have to find the right ids):
 
 es_AR (Spanish voice with Argentinian accent):
 
