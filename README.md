@@ -16,7 +16,7 @@ Audiob🎵k me requires [Python 3.8 or later](https://www.python.org/downloads/)
   How does it works?
 </h1>
 
-Replace your PDF file (audiobook or any document you want to listen to) and set de `first_page_to_read with the first page you want to start hear.
+Replace your PDF file (audiobook or any document you want to listen to) and set de `first_page_to_read` with the first page you want to start hear.
 
 <h1>
   And now?
